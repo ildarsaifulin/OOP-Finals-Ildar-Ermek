@@ -39,4 +39,4 @@ Follow the above instructions and run ``mvn clean package`` , be sure that you a
 
 
 
-## [Contributors] (https://github.com/ildarsaifulin),(https://github.com/bakytov7).
+## [Contributors] (https://github.com/ildarsaifulin) , (https://github.com/bakytov7).
